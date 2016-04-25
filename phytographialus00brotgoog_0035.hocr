@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phytographialus00brotgoog_0035.png"; bbox 0 0 1444 1854; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 702 1114 785 1229">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 702 1114 785 1229">
+     <span class='ocr_line' id='line_1_1' title="bbox 702 1114 785 1229; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 702 1114 785 1229; x_wconf 58' lang='lat' dir='ltr'>xx</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 872 1180 1336 1702">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 872 1180 1336 1702">
+     <span class='ocr_line' id='line_1_2' title="bbox 872 1180 1336 1702; baseline 0 152"><span class='ocrx_word' id='word_1_2' title='bbox 872 1180 1336 1702; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 246 1724 1324 1773">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 246 1724 1324 1773">
+     <span class='ocr_line' id='line_1_3' title="bbox 246 1724 1324 1773; baseline -0.002 -20"><span class='ocrx_word' id='word_1_3' title='bbox 246 1744 248 1747; x_wconf 93' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 256 1727 279 1753; x_wconf 68' lang='lat' dir='ltr'>I⁴</span> <span class='ocrx_word' id='word_1_5' title='bbox 293 1727 544 1753; x_wconf 85' lang='lat' dir='ltr'>HYACINTIIUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 571 1727 695 1752; x_wconf 60' lang='lat' dir='ltr'>Scrosmm.</span> <span class='ocrx_word' id='word_1_7' title='bbox 775 1727 800 1752; x_wconf 74' lang='lat'><strong>⁴¹¹·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 806 1726 833 1753; x_wconf 90' lang='grc' dir='ltr'>Π</span> <span class='ocrx_word' id='word_1_9' title='bbox 841 1750 844 1753; x_wconf 93' lang='grc'>.</span> <span class='ocrx_word' id='word_1_10' title='bbox 854 1726 934 1754; x_wconf 82' lang='lat' dir='ltr'>ORC</span> <span class='ocrx_word' id='word_1_11' title='bbox 939 1727 966 1753; x_wconf 83' lang='lat' dir='ltr'><em>H</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 970 1726 1002 1753; x_wconf 80' lang='lat' dir='ltr'>Is</span> <span class='ocrx_word' id='word_1_13' title='bbox 1016 1725 1146 1773; x_wconf 45' lang='lat' dir='ltr'>(wyssam</span> <span class='ocrx_word' id='word_1_14' title='bbox 1154 1724 1324 1771; x_wconf 34' lang='lat' dir='ltr'>fynyffidffnsuh</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phytographialus00brotgoog_0291.png"; bbox 0 0 1444 1854; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1376 34 1377 686">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1376 34 1377 686">
+     <span class='ocr_line' id='line_1_1' title="bbox 1376 34 1377 686; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1376 34 1377 686; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1354 1214 1376 1712">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1354 1214 1376 1712">
+     <span class='ocr_line' id='line_1_2' title="bbox 1354 1214 1376 1712; baseline 0 142"><span class='ocrx_word' id='word_1_2' title='bbox 1354 1214 1376 1712; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 441 1671 954 1699">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 441 1671 954 1699">
+     <span class='ocr_line' id='line_1_3' title="bbox 441 1671 954 1699; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 441 1671 601 1699; x_wconf 77' lang='lat' dir='ltr'>SCROPH</span> <span class='ocrx_word' id='word_1_4' title='bbox 608 1671 632 1698; x_wconf 94' lang='lat' dir='ltr'><strong>U</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 640 1671 696 1698; x_wconf 89' lang='lat' dir='ltr'>LA</span> <span class='ocrx_word' id='word_1_6' title='bbox 704 1671 776 1698; x_wconf 71' lang='lat' dir='ltr'>RIA</span> <span class='ocrx_word' id='word_1_7' title='bbox 806 1671 843 1699; x_wconf 51' lang='lat' dir='ltr'>§Z</span> <span class='ocrx_word' id='word_1_8' title='bbox 851 1683 954 1698; x_wconf 61' lang='lat' dir='ltr'>mmm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

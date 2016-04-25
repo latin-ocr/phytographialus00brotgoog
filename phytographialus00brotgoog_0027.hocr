@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phytographialus00brotgoog_0027.png"; bbox 0 0 1444 1854; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 301 1740 1308 1802">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 301 1740 1308 1802">
+     <span class='ocr_line' id='line_1_1' title="bbox 301 1740 1308 1802; baseline 0.005 -21"><span class='ocrx_word' id='word_1_1' title='bbox 301 1763 318 1781; x_wconf 92' lang='lat'><em>1.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 338 1762 480 1783; x_wconf 59' lang='lat' dir='ltr'>maenus</span> <span class='ocrx_word' id='word_1_3' title='bbox 515 1755 709 1800; x_wconf 45' lang='lat' dir='ltr'><em>anf-crasa.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 772 1740 806 1802; x_wconf 49' lang='grc' dir='ltr'><strong>ᾧ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 837 1764 861 1783; x_wconf 70' lang='lat' dir='ltr'><em>m:</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 895 1764 1035 1784; x_wconf 64' lang='lat' dir='ltr'><em>omes</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1053 1767 1242 1794; x_wconf 37' lang='lat' dir='ltr'><em>squamam</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1265 1776 1308 1786; x_wconf 59' lang='lat' dir='ltr'><strong><em>m</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

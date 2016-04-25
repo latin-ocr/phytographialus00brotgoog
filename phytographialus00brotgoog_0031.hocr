@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phytographialus00brotgoog_0031.png"; bbox 0 0 1444 1854; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1220 168 1314 172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1220 168 1314 172">
+     <span class='ocr_line' id='line_1_1' title="bbox 1220 168 1314 172; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1220 168 1314 172; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1237 177 1315 197">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1237 177 1315 197">
+     <span class='ocr_line' id='line_1_2' title="bbox 1237 177 1315 197; baseline -0.013 0"><span class='ocrx_word' id='word_1_2' title='bbox 1237 177 1283 197; x_wconf 73' lang='lat' dir='ltr'><em>Tah.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1292 177 1315 196; x_wconf 68' lang='lat'>82</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1249 1628 1293 1667">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1249 1628 1293 1667">
+     <span class='ocr_line' id='line_1_3' title="bbox 1250 1628 1293 1638; baseline 0.023 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1250 1628 1293 1638; x_wconf 89' lang='lat'><strong>—</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1249 1660 1274 1667; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 1249 1660 1274 1667; x_wconf 54' lang='grc' dir='ltr'><em>Λ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 287 1645 1174 1688">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 287 1645 1174 1688">
+     <span class='ocr_line' id='line_1_5' title="bbox 287 1645 1174 1688; baseline -0.002 -17"><span class='ocrx_word' id='word_1_6' title='bbox 287 1653 296 1671; x_wconf 94' lang='lat'>1</span> <span class='ocrx_word' id='word_1_7' title='bbox 311 1652 420 1671; x_wconf 78' lang='lat' dir='ltr'>ORCHIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 436 1649 581 1684; x_wconf 45' lang='lat' dir='ltr'>squamam</span> <span class='ocrx_word' id='word_1_9' title='bbox 624 1646 694 1671; x_wconf 65' lang='lat' dir='ltr'><em>rubra</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 707 1658 776 1669; x_wconf 49' lang='lat' dir='ltr'>‚fl</span> <span class='ocrx_word' id='word_1_11' title='bbox 842 1653 1000 1670; x_wconf 75' lang='lat' dir='ltr'>11.0P1-1RYs</span> <span class='ocrx_word' id='word_1_12' title='bbox 1050 1645 1174 1688; x_wconf 58' lang='lat' dir='ltr'>bzbrassma</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
